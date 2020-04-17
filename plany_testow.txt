@@ -1,0 +1,8 @@
+Pomysły przeprowadzenia testów:
+
+-wielokrotne zamknięcie i otwarcie każdego z palców
+-testy umieszczania obiektu w ręce (test działania czujnika ultradźwiękowego)
+-test siły ścisku, umieszczenie obiektu wewnątrz dłoni i jego podnoszenie
+-pozostawienie podłączonej ręki bez zadanych działań oraz obserwowanie czy nie wykonuje niepożondanych ruchów
+-test odległości działania mdugułu Bluetooth, wstępnie ustalony na 3 metry
+
