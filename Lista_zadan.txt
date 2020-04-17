@@ -1,0 +1,11 @@
+Zadania 
+Wykonane v
+Nie wykonane x
+
+Projekt komputerowy v
+Druk 3D elementów v
+Opracowanie algorytmu v
+Montaż ręki wraz z podzespołami v
+Implementacja kodu dla Arduino v
+Dobór aplikacji na urządzeniu mobilnym v
+Testy v
